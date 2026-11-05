@@ -22,7 +22,7 @@ pnpm install
 pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) to view the app.
+Open [[http://localhost:3000](http://localhost:3000](https://v0-commune-connect-website-git-main-ccdts-projects.vercel.app)) to view the app.
 
 ## Available scripts
 
